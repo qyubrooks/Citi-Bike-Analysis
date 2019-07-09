@@ -8,7 +8,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 The citi bike data I used was from March 2016. I used Tableau to create ten different charts. According to the ten charts, I figured out the following questions. 
 
-1. The top ten popular start and end stations are:
+1. The top five oldest start and end stations are:
 
 ![age](Readme_images/age_stations.png)
 
